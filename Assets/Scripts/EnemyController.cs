@@ -13,7 +13,9 @@ public class EnemyController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-
+    //    _rigidBody = GetComponent<Rigidbody2D>();
+    //    _animator = GetComponent<Animator2D>();
+    //    _spriteRenderer = GetComponent<SpriteRenderer2D>();
     }
 
     // Update is called once per frame

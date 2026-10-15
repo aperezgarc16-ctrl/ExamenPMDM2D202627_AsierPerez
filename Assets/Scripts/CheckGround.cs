@@ -1,3 +1,4 @@
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class CheckGround : MonoBehaviour
@@ -15,5 +16,9 @@ public class CheckGround : MonoBehaviour
         
     }
 
+    public void isGrounded()
+    {
+        
+    }
 
 }
